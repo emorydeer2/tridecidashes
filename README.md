@@ -14,3 +14,5 @@ Anyways, everything else is the same, no new symbols or operations or anything.
 
 This is best used for alternative civilizations, not really even just alien, it truly could've been developed by a human civilization, past or future, and could be used for anything.
 
+Questions?
+Email me at <a href="mailto:learn2read@school.com?subject=Help%20me%20learn%20to%20read!&body=Hello%2C%20I%20am%20illiterate%20%26%20cannot%20read%20common%20language%2C%20please%20teach%20me%20how%20to%20read!">learn2read@school.com</a>
