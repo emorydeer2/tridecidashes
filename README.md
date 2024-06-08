@@ -1,5 +1,5 @@
 # Tridecidashes
-### _A numeral system for Tridecimal (base-13) and below_
+### _A numeral system specialized for Tridecimal (base-13) and below_
 
 ![tridecidashes](https://github.com/emorydeer2/tridecidashes/assets/107522398/e3f9a776-702d-457b-b663-b33f16852918)
 
