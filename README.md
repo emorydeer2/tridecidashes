@@ -1,7 +1,8 @@
 # Tridecidashes
 ### _A numeral system specialized for Tridecimal (base-13) and below_
 
-![tridecidashes](https://github.com/emorydeer2/tridecidashes/assets/107522398/e3f9a776-702d-457b-b663-b33f16852918)
+![image](https://github.com/user-attachments/assets/2eed4468-32ea-47f7-a1cb-b3475d9233b5)
+
 
 Traditional means it includes redundant dashes
 [Tri]decadashes (Simplified) would include only the newly added dash, along with the anchoring dash.
