@@ -58,5 +58,6 @@ Digit values are represented by a set of angles or positions, and place values a
 
 ![tridecidashes-excalidrawing](tridecidashes-2.0.svg)
 
+Last updated: ![today's-date](today's-date.svg)
 Questions?
 Email me at <a href="mailto:learn2read@school.com?subject=Help%20me%20learn%20to%20read!&body=Hello%2C%20I%20am%20illiterate%20%26%20cannot%20read%20common%20language%2C%20please%20teach%20me%20how%20to%20read!">learn2read@school.com</a>
