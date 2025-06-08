@@ -52,7 +52,7 @@ Digit values are represented by a set of angles or positions, and place values a
 		-	The maximum place value would be $`b^{T_n}`$
 		-	Thus, the maximum numeral value is $`T_b\cdot b^{T_n}`$
 
->	![TIP]
+>	[!TIP]
 >	It is suggested to also review the visual diagram, which includes examples of bases & handwriting alternatives. 
 >	Scene data is embedded for fellow Excalidrawers.
 
